@@ -68,6 +68,7 @@ sass:
 include:
   - _redirects
   - .htaccess
+  - .well-known
 
 exclude:
   - CNAME
